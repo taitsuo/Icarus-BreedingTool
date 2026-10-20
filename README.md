@@ -10,7 +10,7 @@ Track your breeding collection, explore family trees, compare potential parents 
 
 - **[Download on GitHub](https://github.com/taitsuo/Icarus-BreedingTool/releases/latest)**
 - **[Download on Nexus Mods](https://www.nexusmods.com/icarus/mods/373?tab=description)**
-- **[Open the Web Advisor](https://taitsuo.github.io/pedigree/)**
+- **[Open the Web Advisor](https://icarus-breeding-tools.github.io)**
 
 On GitHub, download **Breeding.Tool.zip** from the latest Release under *Assets*, not the automatically generated Source code archives.
 
@@ -51,7 +51,7 @@ Use the **Wall version** of the Advanced Breeding Panel to access all its contro
 
 To use the Web Advisor:
 
-1. Open [Breeding Advisor](https://taitsuo.github.io/pedigree/).
+1. Open [Breeding Advisor](https://icarus-breeding-tools.github.io ).
 2. Click **Connect folder**.
 3. Select `Icarus\Icarus\Binaries\Win64\ue4ss\Mods\BreedingTool`.
 4. Explore the **Pedigree**, **Board** and **Advisor**.
