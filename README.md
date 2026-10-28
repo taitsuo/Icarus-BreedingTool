@@ -12,7 +12,7 @@ Track your breeding collection, explore family trees, compare potential parents 
 - **[Download on Nexus Mods](https://www.nexusmods.com/icarus/mods/373?tab=description)**
 - **[Open the Web Advisor](https://icarus-breeding-tools.github.io)**
 
-On GitHub, download **Breeding.Tool.zip** from the latest Release under *Assets*, not the automatically generated Source code archives.
+On GitHub, download **Brreding.Tool.zip** from the latest Release under *Assets*, not the automatically generated Source code archives.
 
 ## Features
 
@@ -38,7 +38,7 @@ On GitHub, download **Breeding.Tool.zip** from the latest Release under *Assets*
 2. Extract the downloaded ZIP and copy its included `UE4SS` folder into the same `Win64` directory, merging folders as necessary. Preserve your existing UE4SS configuration and other mods.
 3. Install the included `.pak` using either:
    - **Manual installation:** copy it to `Icarus\Icarus\Content\Paks\mods\`.
-   - **Icarus Mod Manager:** import and install it with IMM V2.5.2, particularly if you use several PAK mods.
+   - **Icarus Mod Manager:** use IMM V2.5.2 → **Extract Mod from PAK File**, then add the mod to your install list and merge/install your mods. Install the Lua component separately as described in step 2.
 4. Launch ICARUS and enter your world.
 
 Do not install the same PAK through both methods.
