@@ -3,7 +3,7 @@
     {
       "name": "Breeding Tool",
       "author": "Taitsuo",
-      "version": "V1",
+      "version": "1.0",
       "compatibility": "",
       "description": "Animal genetics and pedigree tracking, breeding predictions and recommendations, with an in-game Advanced Breeding Panel, Breeding Scanner and companion Web Advisor. Full ZIP package: BreedingTool v1.1.0 (UE4SS Lua) and AdvancedBreedingPanel v1.0.1 (PAK). Requires UE4SS v3.0.1-1181-g83330635, installed separately. Install the Lua component manually; IMM is optional for importing and installing the included PAK. See README for installation instructions.",
       "files": {
